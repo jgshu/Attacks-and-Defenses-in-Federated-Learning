@@ -28,7 +28,6 @@
 * 《Using trusted data to train deep networks on labels corrupted by severe noise》
 * 《Draco: Byzantine-resilient distributed training via redundant gradients》
 ### 审计/detection
-#### 余弦相似度
 * 《Mitigating sybils in federated learning poisoning》
 * 《Understanding distributed poisoning attack in federated learning》
 * 《Auror: Defending against poisoning attacks in collaborative deep learning systems》
@@ -42,6 +41,11 @@
 * 《DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks》
 * 《Backdoor attacks on federated meta-learning》
 * 《Learning to Detect Malicious Clients for Robust Federated Learning》
+#### 其中，利用了余弦相似度的：
+* 《FLGUARD: Secure and Private Federated Learning》
+* 
+#### 其中，利用了聚类技术的：
+
 ### 鲁棒性优化及聚合
 * 《Distributed statistical machine learning in adversarial settings: Byzantine gradient descent》
 * 《Attack-Resistant Federated Learning with Residual-based Reweighting》
