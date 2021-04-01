@@ -24,9 +24,9 @@
 
 ## 防御算法
 ### 数据清洗和网络修剪
-* [《Fine-pruning: Defending against backdooring attacks on deep neural networks》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Fine-pruning：%20Defending%20against%20backdooring%20attacks%20on%20deep%20neural%20networks.pdf)
+* [《Fine-pruning: Defending against backdooring attacks on deep neural networks》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Fine-pruning_%20Defending%20against%20backdooring%20attacks%20on%20deep%20neural%20networks.pdf)
 * [《Using trusted data to train deep networks on labels corrupted by severe noise》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Using%20trusted%20data%20to%20train%20deep%20networks%20on%20labels%20corrupted%20by%20severe%20noise.pdf)
-* [《Draco: Byzantine-resilient distributed training via redundant gradients》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Draco：%20Byzantine-resilient%20distributed%20training%20via%20redundant%20gradients.pdf)
+* [《Draco: Byzantine-resilient distributed training via redundant gradients》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Draco_%20Byzantine-resilient%20distributed%20training%20via%20redundant%20gradients.pdf)
 ### 审计/detection
 * [《Mitigating sybils in federated learning poisoning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Mitigating%20sybils%20in%20federated%20learning%20poisoning.pdf)
 * [《Understanding distributed poisoning attack in federated learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Understanding%20distributed%20poisoning%20attack%20in%20federated%20learning.pdf)
