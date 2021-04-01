@@ -28,6 +28,7 @@
 * 《Using trusted data to train deep networks on labels corrupted by severe noise》
 * 《Draco: Byzantine-resilient distributed training via redundant gradients》
 ### 审计/detection
+#### 余弦相似度
 * 《Mitigating sybils in federated learning poisoning》
 * 《Understanding distributed poisoning attack in federated learning》
 * 《Auror: Defending against poisoning attacks in collaborative deep learning systems》
