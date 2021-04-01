@@ -13,7 +13,8 @@
 ### 后门攻击
 * [《DBA: Distributed Backdoor Attacks against Federated Learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/DBA：%20Distributed%20Backdoor%20Attacks%20against%20Federated%20Learning.pdf)
 * [《How to backdoor federated learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/How%20to%20backdoor%20federated%20learning.pdf)
-* [《Badnets: Identifying vulnerabilities in the machinelearning model supply chain》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Badnets：Identifying%20vulnerabilities%20in%20the%20machinelearning%20model%20supply%20chain.pdf)
+* [《Badnets: Identifying vulnerabilities in the machinelearning model supply chain》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Badnets%EF%BC%9AIdentifying%20vulnerabilities%20in%20the%20machinelearning%20model%20supply%20chain.pdf)
+* https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/BadNets%EF%BC%9AIdentifying%20Vulnerabilities%20in%20the%20Machine%20Learning%20Model%20Supply%20Chain.pdf
 * [《A little is enough: Circumventing defenses for distributed learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/A%20little%20is%20enough：%20Circumventing%20defenses%20for%20distributed%20learning.pdf)
 * [《Can you really backdoor federated learning?》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Can%20you%20really%20backdoor%20federated%20learning.pdf)
 * [《Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Targeted%20Backdoor%20Attacks%20on%20Deep%20Learning%20Systems%20Using%20Data%20Poisoning.pdf)
