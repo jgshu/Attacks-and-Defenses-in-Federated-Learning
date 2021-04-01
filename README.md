@@ -20,6 +20,9 @@
 * [《Trojaning Attack on Neural Networks》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Trojaning%20Attack%20on%20Neural%20Networks.pdf)
 ### Free rider attack
 * [《Free-rider Attacks on Model Aggregation in Federated Learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Free-rider%20Attacks%20on%20Model%20Aggregation%20in%20Federated%20Learning.pdf)
+### 隐私窃取
+* [《Deep models under the GAN: information leakage from collaborative deep learning》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Deep%20models%20under%20the%20GAN_%20information%20leakage%20from%20collaborative%20deep%20learning.pdf)
+* [《Inverting Gradients – How easy is it to break privacy in federated learning?》](https://github.com/jgshu/Attacks-and-Defenses-in-Federated-Learning/blob/main/%E6%96%87%E7%8C%AE/Inverting%20Gradients%20%E2%80%93%20How%20easy%20is%20it%20to%20break%20privacy%20in%20federated%20learning_%2C.pdf)
 ### 推理攻击
 
 ## 防御算法
